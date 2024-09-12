@@ -56,7 +56,7 @@ components:
           exposure: public
           protocol: http
 
-      image: quay.io/devfile/universal-developer-image:ubi8-latest
+      image: quay.io/devfile/universal-developer-image:ubi8-888d46a
 
 commands:
     # For: customShellScriptAsCommand.yaml
